@@ -18,11 +18,6 @@
 	url = git@github.com:OCA/server-ux.git
 	branch = 14.0
 
-[submodule "OCA/sale-workflow"]
-	path = OCA/sale-workflow
-	url = git@github.com:OCA/sale-workflow.git
-	branch = 14.0
-
 [submodule "OCA/reporting-engine"]
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
